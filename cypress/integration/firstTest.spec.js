@@ -35,7 +35,7 @@
 //     cy.visit("https://www.onliner.by/")
 //     cy.get('[class^="b-main"]')
 // });
-
+//
 
 it.only('Using Get with Find and Eq', () =>{
     cy.viewport(1800,1800)
